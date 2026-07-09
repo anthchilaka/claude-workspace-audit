@@ -9,7 +9,7 @@
 | Windows-style path artifacts | 1 found and resolved — a misfiled empty artifact from a one-off path-construction slip, verified safe before cleanup (both affected dates were already fully processed via other sources) |
 | Missing skill evaluations | Resolved this session — synthetic eval suite built and run, 20 assertions across 3 test scenarios |
 | Projects-migration candidate | Yes — 22 dated session logs, daily active use, currently reconstructing session context by hand each time |
-| CLAUDE.md / spec boundary | 1 finding — the project's product-spec file and the installed skill both independently document the same architecture with overlapping but non-identical detail, a mild drift risk |
+| CLAUDE.md / spec boundary | 1 finding, resolved (2026-07-09) — the project's product-spec file and the installed skill independently documented the same architecture with overlapping but non-identical detail; collapsed into single-source reference files, both now point to one canonical copy each |
 
 ## Note on an earlier claim
 
