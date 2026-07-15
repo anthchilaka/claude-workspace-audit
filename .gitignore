@@ -1,0 +1,12 @@
+# Second safety net per project_redact_checklist.md Step 4 —
+# the pre-push grep (Step 5) is the primary control; this is defense in depth.
+
+config/*.json
+!config/*.example.json
+*.env
+logs/
+session-logs/
+*session*.md
+*notes*.md
+__pycache__/
+*.pyc
